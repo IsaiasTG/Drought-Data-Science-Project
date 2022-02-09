@@ -1,6 +1,6 @@
 # Drought-Data-Science-Project
 
-Please include the following in README.md:
+Requirements:
 
 Project Title
 Name(s) of individual or team members
