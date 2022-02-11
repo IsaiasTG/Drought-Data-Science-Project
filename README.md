@@ -27,5 +27,7 @@ Planned methodology/approach
    
 Expected outcomes:
 1. We anticipate identifying correlations between a lack of precipitation & worsening drought conditons as well as correlations with increasing temperatures and the degredation of vegetation in San Joaquin county.
+
 Any other relevant information, images/tables, references, etc.
-References
+
+References:
