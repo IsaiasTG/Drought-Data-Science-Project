@@ -8,6 +8,8 @@ Problem Statement: San Joaquin County has been in an emergency drought since Apr
 
 The goal of our analysis will be to identify drought conditon variations over time and we  will be focusing on San Joaquin County and see how the drought will affect the vegetation and the residents.
 
+Questions: What insights can the analysis of NDVI, NDWI & EVI Landsat imagery offer us in regards to changes in drought conditions over time?
+
 Project Title
 Name(s) of individual or team members
 Short 1-2 sentence summary
