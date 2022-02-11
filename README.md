@@ -26,7 +26,7 @@
   1. We will map the drought conditions in California by producing NDWI &amp; NDVI maps and analyzing them for correlations. Important variables will be precipitation, temperature, vegetation, and additional geographic factors that contribute to a warming climate and reduced rainfall.
 
 **Expected outcomes**
-  1. We anticipate identifying correlations between a lack of precipitation & worsening drought conditons as well as correlations with increasing temperatures and the degredation of vegetation in San Joaquin county.
+  1. We anticipate identifying correlations between a lack of precipitation & worsening drought conditions as well as correlations with increasing temperatures and the degradation of vegetation in San Joaquin county.
  
 **Any other relevant information, images/tables, references, etc.**
 **References****
