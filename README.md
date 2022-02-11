@@ -16,7 +16,7 @@
 **Datasets you will use (with links, if available)**
   1. MODIS/Terra Vegetation Indices (NDVI/EVI): https://modis.ornl.gov/cgi-bin/sites/site/?network=AMERIFLUX&network_siteid=US-xSJ&product=MOD13Q1
   2. MODIS/Terra+Aqua Burned Area (Burned Area): https://modis.ornl.gov/sites/?id=us_california_sierra_san_joaquin_experimental_range
-  3. GIS Data for San Joaquin County: ahttp://sjmap.org/GISDataDownload.htm 
+  3. GIS Data for San Joaquin County: http://sjmap.org/GISDataDownload.htm 
 
 **Tools/packages you’ll need**
   1. Geopandas, Plotty Express, Rasterio
