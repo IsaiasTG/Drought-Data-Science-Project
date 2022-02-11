@@ -19,7 +19,7 @@
   3. GIS Data for San Joaquin County: http://sjmap.org/GISDataDownload.htm 
 
 **Tools/packages you’ll need**
-  1. Geopandas, Plotty Express, Rasterio
+  1. Jupyter Notebook: Geopandas, Plotty Express, Rasterio
   2. ArcGIS, QGIS   
 
 **Planned methodology/approach**
