@@ -16,9 +16,10 @@ Datasets you will use (with links, if available)
   1. https://modis.ornl.gov/cgi-bin/sites/site/?network=AMERIFLUX&network_siteid=US-xSJ&product=MOD13Q1
   2. https://modis.ornl.gov/sites/?id=us_california_sierra_san_joaquin_experimental_range
   3. http://sjmap.org/GISDataDownload.htm 
+
 Tools/packages you’ll need
-  1. Geopandas, Plotty Express, Rasterio
-  2. ArcGIS, QGIS   
+  6. Geopandas, Plotty Express, Rasterio
+  7. ArcGIS, QGIS   
 Planned methodology/approach
 Expected outcomes
 Any other relevant information, images/tables, references, etc.
