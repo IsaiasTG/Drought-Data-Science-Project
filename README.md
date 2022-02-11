@@ -5,10 +5,8 @@ Team Members: Chase Krogh, Jack Lei, Isaias Torres
 Mapping of drought conditions in California by producing NDWI &amp; NDVI maps and analyzing them for correlations. Important variables will be precipitation, temperature, vegetation and additional geographic factors that contribute to a warming climate and reduced rainfall.
 
 Problem Statement:
-San Joaquin County has been in an emergency drought since April 21st, 2021. All Census blocks groups have been severly affected by extreme drought conditons in this county.
 
-Questions:
--What insights can the analysis of NDWI, NDVI & EVI landsat imagery offer us regarding variations in drought conditons over time.
+The goal of our analysis will be to identify drought conditon variations over time and we  will be focusing on San Joaquin County and see how the drought will affect the vegetation and the residents. 
 
 Project Title
 Name(s) of individual or team members
@@ -20,8 +18,9 @@ Datasets you will use (with links, if available)
   3. http://sjmap.org/GISDataDownload.htm 
 
 Tools/packages you’ll need
-  6. Geopandas, Plotty Express, Rasterio
-  7. ArcGIS, QGIS   
+  1. Geopandas, Plotty Express, Rasterio
+  2. ArcGIS, QGIS   
+
 Planned methodology/approach
 Expected outcomes
 Any other relevant information, images/tables, references, etc.
