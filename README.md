@@ -6,7 +6,7 @@ Mapping of drought conditions in California by producing NDWI &amp; NDVI maps an
 
 Problem Statement:
 
-The goal of our analysis will be to identify drought conditon variations over time and we  will be focusing on San Joaquin County and see how the drought will affect the vegetation and the residents. afkls 
+The goal of our analysis will be to identify drought conditon variations over time and we  will be focusing on San Joaquin County and see how the drought will affect the vegetation and the residents.
 
 Project Title
 Name(s) of individual or team members
