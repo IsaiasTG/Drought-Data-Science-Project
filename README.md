@@ -29,4 +29,6 @@
   1. We anticipate identifying correlations between a lack of precipitation & worsening drought conditions as well as correlations with increasing temperatures and the degradation of vegetation in San Joaquin county.
  
 **Any other relevant information, images/tables, references, etc.**
+
+
 **References****
