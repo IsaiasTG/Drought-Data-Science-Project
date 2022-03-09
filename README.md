@@ -1,4 +1,4 @@
-# Drought-Data-Science-Project
+# Fire-Data-Science-Project
 
 **Project Title **
   1. MONITORING THE LAND CHANGES AFTER THE HOLIDAY FARM FIRE
