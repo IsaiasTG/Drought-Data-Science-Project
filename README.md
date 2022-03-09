@@ -1,13 +1,13 @@
 # Drought-Data-Science-Project
 
 **Project Title **
-  1. Drought data analysis for San Joaquin County 
+  1. MONITORING THE LAND CHANGES AFTER THE HOLIDAY FARM FIRE
 
 **Name(s) of individual or team members**
  1. Team Members: Chase Krogh, Jack Lei, Isaias Torres
   
 **Short 1-2 sentence summary**
-  1. The goal of our analysis will be to identify drought condition variations over time and we will be focusing on San Joaquin County and see how the drought will affect the vegetation and the residents.
+  1. The goal of our analysis will be to focusing on the land cover changes that took place after the holiday farm fire and the effects it had on the land and residents. 
 
 **Problem statement, question(s) and/or objective(s)**
  1. Problem Statement: San Joaquin County has been in an emergency drought since April 21st, 2021. All Census Block Groups in this county have been severely affected by extreme drought conditions. 
@@ -23,10 +23,10 @@
   2. ArcGIS, QGIS   
 
 **Planned methodology/approach**
-  1. We will map the drought conditions in California by producing NDWI &amp; NDVI maps and analyzing them for correlations. Important variables will be precipitation, temperature, vegetation, and additional geographic factors that contribute to a warming climate and reduced rainfall.
+  1. We will map the land cover changes aorund the Mckenzie River area in Oregon by producing NDWI &amp; NDVI maps and analyzing them for correlations. Important variables will be precipitation, temperature, vegetation, and additional geographic factors that contribute to a warming climate and reduced rainfall.
 
 **Expected outcomes**
-  1. We anticipate identifying correlations between a lack of precipitation & worsening drought conditions as well as correlations with increasing temperatures and the degradation of vegetation in San Joaquin county.
+  1. We anticipate identifying correlations between a lack of precipitation & worsening drought conditions as well as correlations with increasing temperatures and the degradation of vegetation in Lane county.
  
 **Any other relevant information, images/tables, references, etc.**
 
